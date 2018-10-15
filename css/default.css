@@ -8,5 +8,11 @@ body{
   margin: 40px auto;
   padding: 40px 80px;
   border: green 1px solid;
-  background-color: white;
+  background-color: red;
+}
+
+h1{
+  font-size: 2em;
+  color: #ff82be;
+  text-align: center;
 }
