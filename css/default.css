@@ -17,6 +17,12 @@ h1{
   text-align: center;
 }
 
+.tare_pic:after{
+  content: "";
+  clear: both;
+  display: block;
+}
+
 .photo{
   float: left;
   margin-right: 30px;
