@@ -71,6 +71,15 @@ dt{
   background-color: lightcoral;
 }
 
+#box{
+  border: 2px solid lightcoral;
+  border-collapse: collapse;
+}
+
+th,td{
+  border: 1px solid lightcoral;
+}
+
 
 
 
