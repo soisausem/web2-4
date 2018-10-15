@@ -29,7 +29,7 @@ h1{
 }
 
 .kyuri{
-  float: left;
+  clear: left;
   margin-right: 30px;
 }
 
