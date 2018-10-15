@@ -16,3 +16,14 @@ h1{
   color: #ff82be;
   text-align: center;
 }
+
+.photo{
+  float: left;
+  margin-right: 30px;
+}
+
+.kyuri{
+  float: left;
+  margin-right: 30px;
+}
+
