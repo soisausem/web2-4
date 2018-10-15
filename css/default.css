@@ -29,13 +29,13 @@ h1{
 }
 
 .kyuri{
-  float: right;
+  float: left;
   margin-right: 30px;
 }
 
 .explanation{
   float: left;
-  whidth: 550px;
+  whidth: 460px;
 }
 
 dt{
